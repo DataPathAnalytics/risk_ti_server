@@ -22,7 +22,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
         <java.version>1.8</java.version>
-        <postgres.version>42.1.1</postgres.version>
+        <postgres.version>42.2.25</postgres.version>
         <spring.jdbc.version>4.3.7.RELEASE</spring.jdbc.version>
     </properties>
 
